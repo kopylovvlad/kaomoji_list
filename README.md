@@ -4,7 +4,7 @@
 
 Collection of Kaomoji (=^･ω･^=)
 
-Ruby Gem ヽ(o＾▽＾o)ノ
+[Ruby Gem](https://rubygems.org/gems/kaomojis_list) ヽ(o＾▽＾o)ノ
 
 ## Install
 
