@@ -1,6 +1,6 @@
 # Kaomoji List
 
-[![Gem Version](https://badge.fury.io/rb/kaomoji_list.svg)](https://badge.fury.io/rb/kaomoji_list)
+[![Gem Version](https://badge.fury.io/rb/kaomojis_list.svg)](https://badge.fury.io/rb/kaomojis_list)
 
 Collection of Kaomoji (=^･ω･^=)
 
@@ -9,7 +9,7 @@ Ruby Gem ヽ(o＾▽＾o)ノ
 ## Install
 
 ```
-gem install kaomoji_list
+gem install kaomojis_list
 ```
 ## Usage
 

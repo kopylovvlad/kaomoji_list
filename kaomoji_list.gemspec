@@ -1,7 +1,7 @@
 require_relative 'lib/kaomoji_list/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "kaomoji_list"
+  spec.name          = "kaomojis_list"
   spec.version       = KaomojiList::VERSION
   spec.authors       = ["brnnkt", "kopylovvlad"]
   spec.email         = ["kopylov.vlad@gmail.com"]
