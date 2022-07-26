@@ -26,10 +26,10 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bundler (~> 2.0)
+  bundler (>= 2.0)
   kaomoji_list!
-  rake (~> 12.0)
-  rspec (~> 3.9)
+  rake (>= 12.0)
+  rspec (>= 3.9)
 
 BUNDLED WITH
    2.1.4
